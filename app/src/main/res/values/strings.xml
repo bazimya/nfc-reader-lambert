@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyfirstApp</string>
+    <string name="display">This is my first App in Android studio</string>
+    <string name="firstapp">firstApp</string>
+    <string name="this_is_my_first_app_in_android_studio">This is my first App in Android studio</string>
+</resources>
